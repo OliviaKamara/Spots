@@ -21,7 +21,7 @@ Using Figma instead of a pdf document was really difficult for me so I won't be 
 
 This webpage is deployed to Github Pages
 
-- Deployment Link:
+- Deployment Link: https://oliviakamara.github.io/Spots/
 
 ## Figma
 
