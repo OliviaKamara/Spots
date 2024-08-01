@@ -2,14 +2,21 @@
 
 ### Overview
 
-- Intro
+- Intro/description
 - Figma
 - Images
 
-**Intro**
+**Intro/description**
 Spots is the beginning of a future social media site for users to share what's important to them. It reminds me a lot of Instagram (the old instagram think 2015). This project built on my skills using flexbox, CSS, HTML and the beginning of using display: Grid features. It's built for multiple screen sizes and it was a challenge at first to understand how to implement @media queries. I will be building on this project in future sprints to make it more interactive with Javascript if I understand correctly.
 
 Using Figma instead of a pdf document was really difficult for me so I won't be surprised if I missed some specifications for items when I get the review back. But I hope I got most things accurate.
+
+## Tech Stack
+
+- HTML
+- CSS
+- Responsive Design
+
 **Figma**
 
 - [Link to the project on Figma](https://www.figma.com/file/BBNm2bC3lj8QQMHlnqRsga/Sprint-3-Project-%E2%80%94-Spots?type=design&node-id=2%3A60&mode=design&t=afgNFybdorZO6cQo-1)
