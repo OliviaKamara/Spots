@@ -17,11 +17,17 @@ Using Figma instead of a pdf document was really difficult for me so I won't be 
 - CSS
 - Responsive Design
 
-**Figma**
+## Deployment
+
+This webpage is deployed to Github Pages
+
+- Deployment Link:
+
+## Figma
 
 - [Link to the project on Figma](https://www.figma.com/file/BBNm2bC3lj8QQMHlnqRsga/Sprint-3-Project-%E2%80%94-Spots?type=design&node-id=2%3A60&mode=design&t=afgNFybdorZO6cQo-1)
 
-**Images/video**
+## Images/video
 
 -[link to short video showcasing adaptive screen] https://www.loom.com/share/9ec6e3e629074783ad4f762755a5ee72?sid=406e2815-0be5-4850-80bf-ccd047bf6331
 
