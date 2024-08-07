@@ -12,6 +12,7 @@
   overflow: hidden;
   height: 190px;
   width: 190px;
+  object-fit: cover;
 }
 
 .profile__column {
