@@ -25,7 +25,7 @@ This webpage is deployed to Github Pages
 
 ## Figma
 
-- [Link to the project on Figma](https://www.figma.com/file/BBNm2bC3lj8QQMHlnqRsga/Sprint-3-Project-%E2%80%94-Spots?type=design&node-id=2%3A60&mode=design&t=afgNFybdorZO6cQo-1)
+- [Link to the project on Figma](https://www.loom.com/share/d6dd248bd7a94558a9630464437b65d0?sid=ff1d0409-7f3b-4de1-8286-67f8a01036b0)
 
 ## Images/video
 
