@@ -25,11 +25,11 @@ This webpage is deployed to Github Pages
 
 ## Figma
 
-- [Link to the project on Figma](https://www.loom.com/share/d6dd248bd7a94558a9630464437b65d0?sid=ff1d0409-7f3b-4de1-8286-67f8a01036b0)
+- [Link to the project on Figma](https://www.figma.com/design/BBNm2bC3lj8QQMHlnqRsga/Sprint-3-Project%3A-Spots?node-id=0-1&t=XR8EkKeE2uo9ac7N-0)
 
 ## Images/video
 
--[link to short video showcasing adaptive screen] https://www.loom.com/share/9ec6e3e629074783ad4f762755a5ee72?sid=406e2815-0be5-4850-80bf-ccd047bf6331
+- [Link to video] (https://www.loom.com/share/d6dd248bd7a94558a9630464437b65d0?sid=2cd4b3d6-e705-4f55-a8f6-e50cf4d5f957)
 
 ![desktop view](images/spots-desktop.png)
 ![mobile view](images/spots-mobile.png)
